@@ -13,5 +13,5 @@ How to run:
 Download or clone this repository.
 compile c-calculator.
 Run the program.
-Enter numbers and choose an operatoion.
+Enter numbers and choose an operation.
 
