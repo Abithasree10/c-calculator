@@ -8,7 +8,7 @@ About the project:
    switch
    case
    break
-   basic input/output
+   basic input/output.
 How to run:
 Download or clone this repository.
 compile c-calculator.
