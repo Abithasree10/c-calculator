@@ -1,4 +1,4 @@
-About the project:
+About the project: 
  A simple begginer program for building a calculator.
  Language used: C
  Concepts:
